@@ -1,5 +1,5 @@
 # Visual-OddBall-Task-tDCS
-This repository includes a visual "oddball" task designed for use during a transcranial direct current stimulation (tDCS) session, developed as part of the research for my Master's Dissertation titled "Enhancing Brain-Computer Interface (BCI) Performance with tDCS."
+This repository includes a visual "oddball" task designed for use during a transcranial direct current stimulation (tDCS) session, developed as part of the research for my Master's Dissertation titled "USING TRANSCRANIAL DIRECT CURRENT STIMULATION TO BOOST BRAIN-COMPUTER INTERFACES PERFORMANCE"
 
 ## Requirements
 - Python
