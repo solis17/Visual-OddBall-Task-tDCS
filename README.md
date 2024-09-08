@@ -11,6 +11,8 @@ The task we used was adapted from an original task developed by D’Amico A. [1]
 As shown in Figure 1, the task involved a visual counting exercise conducted over 12 runs. Each run presented a continuous sequence of stimuli, followed by a fixation cross. Participants received instructions via guidance screens to count only the target figures, distinguished by their green colour, and to disregard figures of other colours (yellow, blue, and white). After each run, participants reported their count of the target figures by choosing one of two options displayed on the screen and pressing the corresponding button.
 
 ![image](https://github.com/user-attachments/assets/81b95652-5fa3-4b8f-993c-00038143db08)
+Figure 1. Structure of the task. (A) Trials types (B) Start of each run (C) End of each run.
+
 
 The experiment was divided into three blocks of about 5 minutes each, with each block containing four runs. After each set of four runs, participants were given a 1.5-minute break to rest, helping to reduce fatigue while maintaining their focus. The first block featured triangles, the second block included rhombuses, and the final block used stars, introducing variety to prevent task monotony.
 
@@ -18,8 +20,8 @@ Each run consisted of 28 to 48 trials, with target stimuli appearing in 25% of t
 
 
 ## Usage
-1. Download ...
-2. Run (...).py
+1. Download P300_oddball_info folder
+2. Run P300_oddball.psyexp
 
 
 ## License
