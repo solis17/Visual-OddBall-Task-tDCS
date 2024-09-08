@@ -1,2 +1,13 @@
 # Visual-OddBall-Task-tDCS
-Visual "oddball" task designed for execution during a transcranial direct current stimulation (tDCS) session.
+This repository contains a visual "oddball" task for execution during a transcranial direct current stimulation (tDCS) session.
+
+## Requirements
+
+
+## Task Description
+
+
+## Usage
+
+
+## License
