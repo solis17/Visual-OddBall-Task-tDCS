@@ -10,7 +10,7 @@ The task we used was adapted from an original task developed by D’Amico A. [1]
 
 As shown in Figure 1, the task involved a visual counting exercise conducted over 12 runs. Each run presented a continuous sequence of stimuli, followed by a fixation cross. Participants received instructions via guidance screens to count only the target figures, distinguished by their green colour, and to disregard figures of other colours (yellow, blue, and white). After each run, participants reported their count of the target figures by choosing one of two options displayed on the screen and pressing the corresponding button.
 
-![image](https://github.com/user-attachments/assets/81b95652-5fa3-4b8f-993c-00038143db08)
+![image](https://github.com/user-attachments/assets/a38e2a62-e158-45a1-ad70-83cc594cfbf2)
 Figure 1. Structure of the task. (A) Trials types (B) Start of each run (C) End of each run.
 
 
